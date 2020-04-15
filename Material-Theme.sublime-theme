@@ -8253,7 +8253,8 @@
       "class": "title_bar",
       "settings": ["material_theme_titlebar"],
       "platforms": ["osx"],
-      "fg": [96, 125, 139],
+      // "fg": [96, 125, 139],
+      "fg": [180, 180, 180],
       "bg": [38, 50, 56]
     },
   
